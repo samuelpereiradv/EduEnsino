@@ -125,7 +125,7 @@ Durante o desenvolvimento deste projeto foram utilizados conceitos importantes d
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Samuel Pereira** como projeto de aprendizado em Python.
+Desenvolvido por **Samuel Pereira, Cláudia Beatriz, José Augusto e Rodrigo Nunes** como projeto de aprendizado em Python.
 
 ---
 
